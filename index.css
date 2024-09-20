@@ -1,6 +1,43 @@
 *{
     font-size: 25px;
 }
-.box1 ul li:nth-child(odd){
-    color:red
+
+.box-1 ul li {
+    color: red;
+}
+
+.box-1 ul li + li {
+    color: black;
+}
+
+.box-1 ul li + li + li {
+    color: red;
+}
+
+.box-1 ul li + li + li + li {
+    color: black;
+}
+
+.box-1 ul li + li + li + li + li {
+    color: red;
+}
+
+.box-1 ul li + li + li + li + li + li {
+    color: black;
+}
+
+.box-1 ul li + li + li + li + li + li + li {
+    color: red;
+}
+
+.box-1 ul li + li + li + li + li + li + li + li {
+    color: black;
+}
+
+.box-1 ul li + li + li + li + li + li + li + li + li {
+    color: red;
+}
+
+.box-1 ul li + li + li + li + li + li + li + li + li + li {
+    color: black;
 }
