@@ -1,0 +1,6 @@
+*{
+    font-size: 25px;
+}
+.box1 ul li:nth-child(odd){
+    color:red
+}
